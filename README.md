@@ -1,7 +1,7 @@
-- 👋 Hi, I’m marufshahriar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Cse
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Maruf Shahriar
+- 👀 I’m interested in Software Engineering, Cyber Security, Software Testing and Quality Assurance.
+- 🌱 I’m currently learning NLP methods, App development.
+- 💞️ I’m looking to collaborate to Web or Android Development projects.
 - 📫 How to reach me mrfshahriar@gmail.com
 
 <!---
